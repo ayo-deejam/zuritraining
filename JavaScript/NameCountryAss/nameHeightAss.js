@@ -1,3 +1,3 @@
 alert('Country: Nigeria');
-alert('Age: 35');
+alert('Height: 1.73m');
 document.write('Name: Salami Abdulmajeed');
